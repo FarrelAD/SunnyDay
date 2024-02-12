@@ -47,3 +47,4 @@ def duplicate_count(text):
 print(duplicate_count('Indivisiblities'))
 print(duplicate_count('Economy'))
 print(duplicate_count('Responsibilities'))
+print(duplicate_count('Countries'))
