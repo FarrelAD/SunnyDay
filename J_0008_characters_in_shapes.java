@@ -3,7 +3,7 @@
 // Source: https://edabit.com/challenge/Py6fFcpDMJNWyTxRD
 // 1 February 2024
 
-public class Ei8ht_characters_in_shapes {
+public class J_0008_characters_in_shapes {
 
 	// 1st method - basic
 	// public static int countCharacters(String[] arr) {
