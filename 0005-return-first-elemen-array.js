@@ -1,4 +1,4 @@
-// Print text with a function
+// Return first value
 // Source: https://edabit.com/challenge/QaApgtePE6QrCZ64o
 // 1 February 2024
 
