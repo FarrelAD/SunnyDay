@@ -35,8 +35,6 @@ function comp(array1, array2) {
         }
     }
 
-    console.log(array1[6] * array1[6]  )
-
     for (let i = 0; i < isArrayOneHavePartner.length; i++) {
         console.log(isArrayOneHavePartner[i])
         if (isArrayOneHavePartner[i] == false) {
